@@ -1,5 +1,5 @@
 import webbrowser
-#to import webbrowser which is used by fresh_tomatoes
+# to import webbrowser which is used by fresh_tomatoes
 
 
 class Movie():
